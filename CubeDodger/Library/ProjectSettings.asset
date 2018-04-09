@@ -603,7 +603,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: e3b59bbd-db83-45ab-8417-bceb99779a0d
-  projectName: MovingBLocks
+  projectName: CubeDodger
   organizationId: unity_alndbbvparg19a
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
