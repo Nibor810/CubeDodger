@@ -12,7 +12,10 @@ public class BulletExplosion : MonoBehaviour
         {
             Destroy(col.gameObject);
         }
-        Destroy(gameObject);
+        if (col.gameObject.tag != "Player")
+        {
+            Destroy(gameObject);
+        }
     }
 
 
